@@ -3,7 +3,7 @@ This project demonstrates a real-time hand gesture recognition system using Pyth
 
 ## Features
 1. **Real-Time Detection**: Recognizes 4 distinct hand gestures with 95% accuracy using webcam video feed.
-2. **Optimized Processing **: Employs background subtraction and ROI-based thresholding, reducing computational load by 50%.
+2. **Optimized Processing**: Employs background subtraction and ROI-based thresholding, reducing computational load by 50%.
 3. **Scalable Design**: Modular HandData class enhances code maintainability and extensibility.
 4. **Robust Algorithm**: Prioritizes hand movement detection, minimizing errors by 25% for fast-moving hands.
 5. **Deployment-Ready**: Includes a saved model pipeline (language_detector_model.pkl) for seamless predictions.
@@ -12,8 +12,8 @@ This project demonstrates a real-time hand gesture recognition system using Pyth
 ## Project Directory
 Hand_Gesture_Recognition_System/
 
-├── main.ipynb                   # Main Jupyter Notebook with implementation
-├── README.md                    # Project documentation           
+├── main.ipynb                  
+├── README.md                               
 └── requirements.txt
 
 ## Installation 
